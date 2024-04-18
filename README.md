@@ -16,4 +16,4 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 </br>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alesandro&repo=github-readme-stats)](https://github.com/marcosdosea/MaisTransporte)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alesandro&repo=github.com/marcosdosea/MaisTransporte)](https://github.com/marcosdosea/MaisTransporte)
